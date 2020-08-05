@@ -1,6 +1,4 @@
-# My bio
-
-<p>Hi 👋 , welcome my repos!</p>
+# Hi 👋 , welcome my repos!
 
 <p>I'm brazilian 🇧🇷 and like web and mobile projects, with stacks ReactJS, React Native and NodeJS that is Full JavaScript, It’s these technologies that I’ve been working on for the past few years!</p>
 
